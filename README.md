@@ -9,8 +9,8 @@ Run the model using this command:
 
 Please kindly look at the file `main.py` for hyperparameter arguments.
 
-
-GAN | <img src = 'output/25000.png' height = '700px'>
+GAN epoch 25000
+<img src = 'output/25000.png' height = '700px'>
 
 author: 武广
 email: twistedwg@hotmail.com
