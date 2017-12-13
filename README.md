@@ -9,10 +9,13 @@ Run the model using this command:
 
 Please kindly look at the file `main.py` for hyperparameter arguments.
 
-#### GAN epoch 25000
-<img src = 'output/25000.png' height = '700px'>
+#### Visualize GAN 
+*Name* | *Epoch 25000* | *Epoch 10* | *Epoch 25*
+:---: | :---: | :---: | :---: |
+GAN | <img src = 'output/25000.png' height = '230px'> | <img src = 'output/35000.png' height = '230px'> | <img src = 'output/45000.png' height = '230px'>
 
 author: 武广
+
 email: twistedwg@hotmail.com
 
 
